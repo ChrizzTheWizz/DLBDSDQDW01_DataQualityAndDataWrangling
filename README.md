@@ -51,7 +51,7 @@ You can download the latest version of Python [here](https://www.python.org/down
 Data has already been collected for most of February and can be used accordingly. The data can be found in "./data/analysis.h5".
 
 **IMPORTANT**<br>
-Due to a small error regarding the coordinates of the constructions (longitude and latitude swapped), please note the following:
+Due to a small error regarding the coordinates of the constructions (longitude and latitude swapped), please note the following:<br>
 The code as uploaded here can be left as it is if the data stored here ("./data/analysis.h5") is to be viewed exclusively via app.py.
 
 If this data is to be supplemented (not recommended!), the code must be adapted at the following point:
