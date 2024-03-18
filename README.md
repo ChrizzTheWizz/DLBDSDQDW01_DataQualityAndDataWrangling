@@ -17,7 +17,7 @@ The aforementioned data is obtained via API or web scraping. A significant part 
 
 The data is then written to an HDF5 file. 
 
-IMPORTANT:
+IMPORTANT:<br>
 This app was developed as part of a case-study course for my Data Science degree and contains the basic requirements according to the assignment. Further development is not planned.
 
 ## Requirements
