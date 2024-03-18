@@ -54,15 +54,15 @@ Data has already been collected for most of February and can be used accordingly
 Due to a small error regarding the coordinates of the constructions (longitude and latitude swapped), please note the following:<br>
 The code as uploaded here can be left as it is if the data stored here ("./data/analysis.h5") is to be viewed exclusively via app.py.
 
-If this data is to be supplemented (not recommended!), the code must be adapted at the following point:
-"./utils/crawl_data_extraction.py"
-Function: extract_traffic_sensors
-See "!!!" comment
+If this data is to be supplemented (not recommended!), the code must be adapted at the following point:<br>
+"./utils/crawl_data_extraction.py"<br>
+Function: extract_traffic_sensors<br>
+See "!!!" comment<br>
 
-If new data is to be collected from the start (recommended), the code must be adapted at the following point:
-"./utils/app_data_processing.py"
-Function: traffic_nearby_station
-See "!!!" comment
+If new data is to be collected from the start (recommended), the code must be adapted at the following point:<br>
+"./utils/app_data_processing.py"<br>
+Function: traffic_nearby_station<br>
+See "!!!" comment<br>
 
 
 ## Installation
