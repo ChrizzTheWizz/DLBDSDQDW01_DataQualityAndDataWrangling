@@ -75,7 +75,7 @@ IF you want to collect new data, you can skip to download the "./data/analysis.h
 ## Usage / How to
 
 You only have to run crawl.py to collect the data. 
-Logging file give you an insight what happend. The code is optimized to run on an hourly basis. A script for creating a cron job or a Windows task is also provided.
+Logging file give you an insight what happend. The code is optimized to run on an hourly basis. A script for creating a cron job or a Windows task is also provided ("./utils/jobs_initialization.py").
 
 Run app.py to get a visualization of the data.
 
