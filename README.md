@@ -1,5 +1,5 @@
 # Course: Data Quality and Data Wrangling
-# Scraping and visualizing data on Berlin's air quality  SCRAPING AND VISUALIZING DATA ON BERLIN'S AIR QUALITY
+# Scraping and visualizing data on Berlin's air quality 
 
 ## Table of Contents
 1. [About the project](#About-the-project)
