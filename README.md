@@ -48,7 +48,8 @@ You can download the latest version of Python [here](https://www.python.org/down
 
 **Data:**
 
-Data has already been collected for most of February and can be used accordingly. The data can be found in "./data/analysis.h5".
+Data has already been collected for most of February and can be used accordingly. The data can be found in "./data/analysis.h5".<br>
+If you want to collect data from the beginning, simply delete the h5 File.
 
 **IMPORTANT**<br>
 Due to a small error regarding the coordinates of the constructions (longitude and latitude swapped), please note the following:<br>
