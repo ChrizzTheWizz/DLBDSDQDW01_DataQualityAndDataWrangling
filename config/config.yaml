@@ -1,0 +1,34 @@
+main_files:
+  hdf5_file: ./data/analysis.h5
+
+logging_paths:
+  general: ./logs/general/
+  air_quality: ./logs/air_quality/
+  weather: ./logs/weather/
+  constructions: ./logs/constructions/
+  car_registrations: ./logs/car_registrations/
+  new_car_registrations: ./logs/new_car_registrations/
+  traffic: ./logs/traffic/
+
+data_paths:
+  constructions: ./data/constructions/
+  car_registrations: ./data/car_registrations/
+  new_car_registrations: ./data/new_car_registrations/
+
+data_file_names:
+  constructions: ./data/constructions/constructions.json
+  pre_constructions: ./data/constructions/preprocessed_constructions.json
+  car_registrations: ./data/car_registrations/fz1_{}.xlsx
+  new_car_registrations: ./data/new_car_registrations/fz8_{}.xlsx
+
+url:
+  air_quality_stations: 'https://luftdaten.berlin.de/api/stations?active=true&include_hidden=true'
+  air_quality_data: 'https://luftdaten.berlin.de/api/stations/{}/data?period=1h&timespan=custom&start={}%2000%3A00&end={}%2023%3A00'
+  weather_data: 'https://www.berlin.de/wetter/'
+  constructions: 'https://api.viz.berlin.de/daten/baustellen_sperrungen.json'
+  car_registrations: 'https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Motorisierung/motorisierung_node.html'
+  new_car_registrations: 'https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/MonatlicheNeuzulassungen/monatl_neuzulassungen_node.html'
+  traffic_sensors: 'https://api.viz.berlin.de/FROST-Server-TEU/v1.1/Things({})'
+  traffic_data: '?$filter=phenomenonTime eq '
+
+
