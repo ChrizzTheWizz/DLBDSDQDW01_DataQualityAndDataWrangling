@@ -1,0 +1,249 @@
+2024-03-01 00:00:24,115 - INFO - Subject main_files: hdf5_file available
+2024-03-01 00:00:24,115 - INFO - Subject general: Process OPEN
+2024-03-01 00:00:24,115 - INFO - Subject air_quality: Process OPEN
+2024-03-01 00:00:24,115 - INFO - Subject weather: Process OPEN
+2024-03-01 00:00:24,116 - INFO - Subject constructions: Process OPEN
+2024-03-01 00:00:24,116 - INFO - Subject car_registrations: Process OPEN
+2024-03-01 00:00:24,116 - INFO - Subject new_car_registrations: Process OPEN
+2024-03-01 00:00:24,116 - INFO - Subject traffic: Process OPEN
+2024-03-01 00:00:24,116 - INFO - Subject air_quality: Process started for 2024-02-29
+2024-03-01 00:00:24,116 - INFO - Subject air_quality: Logging to ./logs/air_quality/)
+2024-03-01 00:00:29,715 - INFO - Subject air_quality: Process COMPLETED for 2024-02-29
+2024-03-01 00:00:29,716 - INFO - Subject weather: Process started for 2024-03-01_00:00
+2024-03-01 00:00:29,716 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 00:00:29,810 - INFO - Subject weather: Process COMPLETED for 2024-03-01_00:00
+2024-03-01 00:00:29,810 - INFO - Subject constructions: Process started for 2024-03-01
+2024-03-01 00:00:29,810 - INFO - Subject constructions: Logging to ./logs/constructions/)
+2024-03-01 00:00:30,320 - INFO - Subject constructions: Process COMPLETED for 2024-03-01
+2024-03-01 00:00:30,320 - INFO - Subject car_registrations: Process started for 2023
+2024-03-01 00:00:30,320 - INFO - Subject car_registrations: Logging to ./logs/car_registrations/)
+2024-03-01 00:00:31,187 - INFO - Subject car_registrations: Process COMPLETED for 2023
+2024-03-01 00:00:31,187 - INFO - Subject new_car_registrations: Process started for 202401
+2024-03-01 00:00:31,187 - INFO - Subject new_car_registrations: Logging to ./logs/new_car_registrations/)
+2024-03-01 00:00:31,826 - INFO - Subject new_car_registrations: Process COMPLETED for 202401
+2024-03-01 00:00:31,826 - INFO - Subject traffic: Process started for 2024-02-29T21:00:00Z/2024-02-29T22:00:00Z
+2024-03-01 00:00:31,826 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 00:01:01,240 - INFO - Subject traffic: Process COMPLETED for 2024-02-29T21:00:00Z/2024-02-29T22:00:00Z
+2024-03-01 01:00:24,081 - INFO - Subject main_files: hdf5_file available
+2024-03-01 01:00:24,082 - INFO - Subject general: Process OPEN
+2024-03-01 01:00:24,082 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 01:00:24,082 - INFO - Subject weather: Process OPEN
+2024-03-01 01:00:24,082 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 01:00:24,082 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 01:00:24,082 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 01:00:24,082 - INFO - Subject traffic: Process OPEN
+2024-03-01 01:00:24,082 - INFO - Subject weather: Process started for 2024-03-01_01:00
+2024-03-01 01:00:24,082 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 01:00:24,198 - INFO - Subject weather: Process COMPLETED for 2024-03-01_01:00
+2024-03-01 01:00:24,198 - INFO - Subject traffic: Process started for 2024-02-29T22:00:00Z/2024-02-29T23:00:00Z
+2024-03-01 01:00:24,198 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 01:00:52,493 - INFO - Subject traffic: Process COMPLETED for 2024-02-29T22:00:00Z/2024-02-29T23:00:00Z
+2024-03-01 02:00:17,101 - INFO - Subject main_files: hdf5_file available
+2024-03-01 02:00:17,101 - INFO - Subject general: Process OPEN
+2024-03-01 02:00:17,101 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 02:00:17,101 - INFO - Subject weather: Process OPEN
+2024-03-01 02:00:17,101 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 02:00:17,101 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 02:00:17,102 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 02:00:17,102 - INFO - Subject traffic: Process OPEN
+2024-03-01 02:00:17,102 - INFO - Subject weather: Process started for 2024-03-01_02:00
+2024-03-01 02:00:17,102 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 02:00:17,207 - INFO - Subject weather: Process COMPLETED for 2024-03-01_02:00
+2024-03-01 02:00:17,207 - INFO - Subject traffic: Process started for 2024-02-29T23:00:00Z/2024-03-01T00:00:00Z
+2024-03-01 02:00:17,207 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 02:00:49,633 - INFO - Subject traffic: Process COMPLETED for 2024-02-29T23:00:00Z/2024-03-01T00:00:00Z
+2024-03-01 03:00:12,195 - INFO - Subject main_files: hdf5_file available
+2024-03-01 03:00:12,196 - INFO - Subject general: Process OPEN
+2024-03-01 03:00:12,196 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 03:00:12,196 - INFO - Subject weather: Process OPEN
+2024-03-01 03:00:12,196 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 03:00:12,196 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 03:00:12,196 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 03:00:12,196 - INFO - Subject traffic: Process OPEN
+2024-03-01 03:00:12,196 - INFO - Subject weather: Process started for 2024-03-01_03:00
+2024-03-01 03:00:12,197 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 03:00:12,288 - INFO - Subject weather: Process COMPLETED for 2024-03-01_03:00
+2024-03-01 03:00:12,288 - INFO - Subject traffic: Process started for 2024-03-01T00:00:00Z/2024-03-01T01:00:00Z
+2024-03-01 03:00:12,288 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 03:00:40,871 - INFO - Subject traffic: Process COMPLETED for 2024-03-01T00:00:00Z/2024-03-01T01:00:00Z
+2024-03-01 04:00:31,105 - INFO - Subject main_files: hdf5_file available
+2024-03-01 04:00:31,106 - INFO - Subject general: Process OPEN
+2024-03-01 04:00:31,106 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 04:00:31,106 - INFO - Subject weather: Process OPEN
+2024-03-01 04:00:31,106 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 04:00:31,106 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 04:00:31,106 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 04:00:31,106 - INFO - Subject traffic: Process OPEN
+2024-03-01 04:00:31,106 - INFO - Subject weather: Process started for 2024-03-01_04:00
+2024-03-01 04:00:31,107 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 04:00:31,209 - INFO - Subject weather: Process COMPLETED for 2024-03-01_04:00
+2024-03-01 04:00:31,209 - INFO - Subject traffic: Process started for 2024-03-01T01:00:00Z/2024-03-01T02:00:00Z
+2024-03-01 04:00:31,209 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 04:01:02,326 - INFO - Subject traffic: Process COMPLETED for 2024-03-01T01:00:00Z/2024-03-01T02:00:00Z
+2024-03-01 05:00:45,072 - INFO - Subject main_files: hdf5_file available
+2024-03-01 05:00:45,073 - INFO - Subject general: Process OPEN
+2024-03-01 05:00:45,073 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 05:00:45,073 - INFO - Subject weather: Process OPEN
+2024-03-01 05:00:45,073 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 05:00:45,073 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 05:00:45,073 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 05:00:45,073 - INFO - Subject traffic: Process OPEN
+2024-03-01 05:00:45,074 - INFO - Subject weather: Process started for 2024-03-01_05:00
+2024-03-01 05:00:45,074 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 05:00:45,183 - INFO - Subject weather: Process COMPLETED for 2024-03-01_05:00
+2024-03-01 05:00:45,183 - INFO - Subject traffic: Process started for 2024-03-01T02:00:00Z/2024-03-01T03:00:00Z
+2024-03-01 05:00:45,183 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 05:01:13,979 - INFO - Subject traffic: Process COMPLETED for 2024-03-01T02:00:00Z/2024-03-01T03:00:00Z
+2024-03-01 06:00:33,136 - INFO - Subject main_files: hdf5_file available
+2024-03-01 06:00:33,136 - INFO - Subject general: Process OPEN
+2024-03-01 06:00:33,137 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 06:00:33,137 - INFO - Subject weather: Process OPEN
+2024-03-01 06:00:33,137 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 06:00:33,137 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 06:00:33,137 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 06:00:33,137 - INFO - Subject traffic: Process OPEN
+2024-03-01 06:00:33,137 - INFO - Subject weather: Process started for 2024-03-01_06:00
+2024-03-01 06:00:33,137 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 06:00:33,236 - INFO - Subject weather: Process COMPLETED for 2024-03-01_06:00
+2024-03-01 06:00:33,236 - INFO - Subject traffic: Process started for 2024-03-01T03:00:00Z/2024-03-01T04:00:00Z
+2024-03-01 06:00:33,236 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 06:01:01,403 - INFO - Subject traffic: Process COMPLETED for 2024-03-01T03:00:00Z/2024-03-01T04:00:00Z
+2024-03-01 07:00:20,506 - INFO - Subject main_files: hdf5_file available
+2024-03-01 07:00:20,507 - INFO - Subject general: Process OPEN
+2024-03-01 07:00:20,507 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 07:00:20,507 - INFO - Subject weather: Process OPEN
+2024-03-01 07:00:20,507 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 07:00:20,507 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 07:00:20,507 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 07:00:20,507 - INFO - Subject traffic: Process OPEN
+2024-03-01 07:00:20,508 - INFO - Subject weather: Process started for 2024-03-01_07:00
+2024-03-01 07:00:20,508 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 07:00:20,609 - INFO - Subject weather: Process COMPLETED for 2024-03-01_07:00
+2024-03-01 07:00:20,609 - INFO - Subject traffic: Process started for 2024-03-01T04:00:00Z/2024-03-01T05:00:00Z
+2024-03-01 07:00:20,609 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 07:01:20,808 - ERROR - traffic: ERROR occurred crawling data for TE001
+2024-03-01 07:02:20,889 - ERROR - traffic: ERROR occurred crawling data for TE002
+2024-03-01 07:03:20,979 - ERROR - traffic: ERROR occurred crawling data for TE004
+2024-03-01 07:04:21,074 - ERROR - traffic: ERROR occurred crawling data for TE005
+2024-03-01 07:05:21,183 - ERROR - traffic: ERROR occurred crawling data for TE006
+2024-03-01 07:06:21,270 - ERROR - traffic: ERROR occurred crawling data for TE009
+2024-03-01 07:07:21,364 - ERROR - traffic: ERROR occurred crawling data for TE010
+2024-03-01 07:08:21,449 - ERROR - traffic: ERROR occurred crawling data for TE011
+2024-03-01 07:09:21,530 - ERROR - traffic: ERROR occurred crawling data for TE012
+2024-03-01 07:10:21,630 - ERROR - traffic: ERROR occurred crawling data for TE013
+2024-03-01 07:11:21,710 - ERROR - traffic: ERROR occurred crawling data for TE014
+2024-03-01 07:12:21,803 - ERROR - traffic: ERROR occurred crawling data for TE015n
+2024-03-01 07:13:21,894 - ERROR - traffic: ERROR occurred crawling data for TE017
+2024-03-01 07:14:21,989 - ERROR - traffic: ERROR occurred crawling data for TE018
+2024-03-01 07:15:22,068 - ERROR - traffic: ERROR occurred crawling data for TE019
+2024-03-01 07:16:22,173 - ERROR - traffic: ERROR occurred crawling data for TE021
+2024-03-01 07:17:22,249 - ERROR - traffic: ERROR occurred crawling data for TE022
+2024-03-01 07:18:22,328 - ERROR - traffic: ERROR occurred crawling data for TE023
+2024-03-01 07:19:22,413 - ERROR - traffic: ERROR occurred crawling data for TE026
+2024-03-01 07:20:22,489 - ERROR - traffic: ERROR occurred crawling data for TE038
+2024-03-01 07:21:22,570 - ERROR - traffic: ERROR occurred crawling data for TE039
+2024-03-01 07:22:22,661 - ERROR - traffic: ERROR occurred crawling data for TE040
+2024-03-01 07:23:22,736 - ERROR - traffic: ERROR occurred crawling data for TE041
+2024-03-01 07:24:22,829 - ERROR - traffic: ERROR occurred crawling data for TE042
+2024-03-01 07:25:22,923 - ERROR - traffic: ERROR occurred crawling data for TE045
+2024-03-01 07:26:23,002 - ERROR - traffic: ERROR occurred crawling data for TE047
+2024-03-01 07:27:23,097 - ERROR - traffic: ERROR occurred crawling data for TE048
+2024-03-01 07:28:23,199 - ERROR - traffic: ERROR occurred crawling data for TE049
+2024-03-01 07:29:23,279 - ERROR - traffic: ERROR occurred crawling data for TE050
+2024-03-01 07:30:23,373 - ERROR - traffic: ERROR occurred crawling data for TE053
+2024-03-01 07:31:23,458 - ERROR - traffic: ERROR occurred crawling data for TE056
+2024-03-01 07:32:23,555 - ERROR - traffic: ERROR occurred crawling data for TE057
+2024-03-01 07:33:23,637 - ERROR - traffic: ERROR occurred crawling data for TE060
+2024-03-01 07:34:23,715 - ERROR - traffic: ERROR occurred crawling data for TE061
+2024-03-01 07:35:23,815 - ERROR - traffic: ERROR occurred crawling data for TE062
+2024-03-01 07:36:23,904 - ERROR - traffic: ERROR occurred crawling data for TE063
+2024-03-01 07:37:23,998 - ERROR - traffic: ERROR occurred crawling data for TE064
+2024-03-01 07:38:24,091 - ERROR - traffic: ERROR occurred crawling data for TE065
+2024-03-01 07:39:24,187 - ERROR - traffic: ERROR occurred crawling data for TE070
+2024-03-01 07:40:24,279 - ERROR - traffic: ERROR occurred crawling data for TE071
+2024-03-01 07:41:24,375 - ERROR - traffic: ERROR occurred crawling data for TE072
+2024-03-01 07:42:24,470 - ERROR - traffic: ERROR occurred crawling data for TE073
+2024-03-01 07:43:24,590 - ERROR - traffic: ERROR occurred crawling data for TE074
+2024-03-01 07:44:24,682 - ERROR - traffic: ERROR occurred crawling data for TE075n
+2024-03-01 07:45:24,786 - ERROR - traffic: ERROR occurred crawling data for TE077n
+2024-03-01 07:46:24,879 - ERROR - traffic: ERROR occurred crawling data for TE080
+2024-03-01 07:47:24,957 - ERROR - traffic: ERROR occurred crawling data for TE104
+2024-03-01 07:48:25,054 - ERROR - traffic: ERROR occurred crawling data for TE105
+2024-03-01 07:49:25,158 - ERROR - traffic: ERROR occurred crawling data for TE106
+2024-03-01 07:50:25,241 - ERROR - traffic: ERROR occurred crawling data for TE107
+2024-03-01 07:51:25,327 - ERROR - traffic: ERROR occurred crawling data for TE108
+2024-03-01 07:52:25,421 - ERROR - traffic: ERROR occurred crawling data for TE112
+2024-03-01 07:53:25,506 - ERROR - traffic: ERROR occurred crawling data for TE114
+2024-03-01 07:54:25,586 - ERROR - traffic: ERROR occurred crawling data for TE115
+2024-03-01 07:55:25,681 - ERROR - traffic: ERROR occurred crawling data for TE118n
+2024-03-01 07:56:25,772 - ERROR - traffic: ERROR occurred crawling data for TE119
+2024-03-01 07:57:25,871 - ERROR - traffic: ERROR occurred crawling data for TE120
+2024-03-01 07:58:25,967 - ERROR - traffic: ERROR occurred crawling data for TE122
+2024-03-01 07:59:26,054 - ERROR - traffic: ERROR occurred crawling data for TE123
+2024-03-01 08:00:26,149 - ERROR - traffic: ERROR occurred crawling data for TE125
+2024-03-01 08:01:26,244 - ERROR - traffic: ERROR occurred crawling data for TE127
+2024-03-01 08:02:26,321 - ERROR - traffic: ERROR occurred crawling data for TE129
+2024-03-01 08:03:26,417 - ERROR - traffic: ERROR occurred crawling data for TE130
+2024-03-01 08:04:26,513 - ERROR - traffic: ERROR occurred crawling data for TE131
+2024-03-01 08:05:26,599 - ERROR - traffic: ERROR occurred crawling data for TE133
+2024-03-01 08:06:26,680 - ERROR - traffic: ERROR occurred crawling data for TE134
+2024-03-01 08:07:26,776 - ERROR - traffic: ERROR occurred crawling data for TE134n
+2024-03-01 08:08:26,862 - ERROR - traffic: ERROR occurred crawling data for TE135
+2024-03-01 08:09:26,959 - ERROR - traffic: ERROR occurred crawling data for TE136
+2024-03-01 08:10:27,052 - ERROR - traffic: ERROR occurred crawling data for TE137
+2024-03-01 08:11:27,127 - ERROR - traffic: ERROR occurred crawling data for TE138
+2024-03-01 08:12:27,215 - ERROR - traffic: ERROR occurred crawling data for TE139
+2024-03-01 08:13:27,303 - ERROR - traffic: ERROR occurred crawling data for TE140
+2024-03-01 08:14:27,397 - ERROR - traffic: ERROR occurred crawling data for TE141
+2024-03-01 08:15:27,477 - ERROR - traffic: ERROR occurred crawling data for TE142
+2024-03-01 08:16:27,556 - ERROR - traffic: ERROR occurred crawling data for TE143
+2024-03-01 08:17:27,656 - ERROR - traffic: ERROR occurred crawling data for TE144
+2024-03-01 08:18:27,746 - ERROR - traffic: ERROR occurred crawling data for TE150
+2024-03-01 08:19:27,837 - ERROR - traffic: ERROR occurred crawling data for TE151n
+2024-03-01 08:20:27,953 - ERROR - traffic: ERROR occurred crawling data for TE152
+2024-03-01 08:21:28,057 - ERROR - traffic: ERROR occurred crawling data for TE153
+2024-03-01 08:22:28,158 - ERROR - traffic: ERROR occurred crawling data for TE158
+2024-03-01 08:23:28,279 - ERROR - traffic: ERROR occurred crawling data for TE160
+2024-03-01 08:24:28,366 - ERROR - traffic: ERROR occurred crawling data for TE161
+2024-03-01 08:25:28,466 - ERROR - traffic: ERROR occurred crawling data for TE162
+2024-03-01 08:26:28,552 - ERROR - traffic: ERROR occurred crawling data for TE165
+2024-03-01 09:00:38,666 - INFO - Subject main_files: hdf5_file available
+2024-03-01 09:00:38,666 - INFO - Subject general: Process OPEN
+2024-03-01 09:00:38,666 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 09:00:38,666 - INFO - Subject weather: Process OPEN
+2024-03-01 09:00:38,666 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 09:00:38,666 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 09:00:38,666 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 09:00:38,666 - INFO - Subject traffic: Process OPEN
+2024-03-01 09:00:38,667 - INFO - Subject weather: Process started for 2024-03-01_09:00
+2024-03-01 09:00:38,667 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 09:00:38,776 - INFO - Subject weather: Process COMPLETED for 2024-03-01_09:00
+2024-03-01 09:00:38,776 - INFO - Subject traffic: Process started for 2024-03-01T06:00:00Z/2024-03-01T07:00:00Z
+2024-03-01 09:00:38,777 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 09:01:38,926 - ERROR - traffic: ERROR occurred crawling data for TE001
+2024-03-01 10:00:21,598 - INFO - Subject main_files: hdf5_file available
+2024-03-01 10:00:21,598 - INFO - Subject general: Process OPEN
+2024-03-01 10:00:21,598 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 10:00:21,598 - INFO - Subject weather: Process OPEN
+2024-03-01 10:00:21,599 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 10:00:21,599 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 10:00:21,599 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 10:00:21,599 - INFO - Subject traffic: Process OPEN
+2024-03-01 10:00:21,599 - INFO - Subject weather: Process started for 2024-03-01_10:00
+2024-03-01 10:00:21,599 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 10:00:21,705 - INFO - Subject weather: Process COMPLETED for 2024-03-01_10:00
+2024-03-01 10:00:21,705 - INFO - Subject traffic: Process started for 2024-03-01T07:00:00Z/2024-03-01T08:00:00Z
+2024-03-01 10:00:21,705 - INFO - Subject traffic: Logging to ./logs/traffic/)
+2024-03-01 11:00:30,747 - INFO - Subject main_files: hdf5_file available
+2024-03-01 11:00:30,748 - INFO - Subject general: Process OPEN
+2024-03-01 11:00:30,748 - INFO - Subject air_quality: Process COMPLETED
+2024-03-01 11:00:30,748 - INFO - Subject weather: Process OPEN
+2024-03-01 11:00:30,748 - INFO - Subject constructions: Process COMPLETED
+2024-03-01 11:00:30,748 - INFO - Subject car_registrations: Process COMPLETED
+2024-03-01 11:00:30,748 - INFO - Subject new_car_registrations: Process COMPLETED
+2024-03-01 11:00:30,748 - INFO - Subject traffic: Process OPEN
+2024-03-01 11:00:30,748 - INFO - Subject weather: Process started for 2024-03-01_11:00
+2024-03-01 11:00:30,748 - INFO - Subject weather: Logging to ./logs/weather/)
+2024-03-01 11:00:30,855 - INFO - Subject weather: Process COMPLETED for 2024-03-01_11:00
+2024-03-01 11:00:30,856 - INFO - Subject traffic: Process started for 2024-03-01T08:00:00Z/2024-03-01T09:00:00Z
+2024-03-01 11:00:30,856 - INFO - Subject traffic: Logging to ./logs/traffic/)
